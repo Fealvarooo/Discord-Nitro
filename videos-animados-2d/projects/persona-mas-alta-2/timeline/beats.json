@@ -1,0 +1,250 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "speechStart": 0.0,
+  "speechEnd": 1.64,
+  "text": "Una sombra tapa la luna.",
+  "end": 2.03
+ },
+ {
+  "i": 1,
+  "start": 2.03,
+  "speechStart": 2.18,
+  "speechEnd": 3.42,
+  "text": "Tienes que mirar hacia arriba.",
+  "end": 3.73
+ },
+ {
+  "i": 2,
+  "start": 3.73,
+  "speechStart": 3.88,
+  "speechEnd": 5.76,
+  "text": "Por primera vez en tu vida.",
+  "end": 6.27
+ },
+ {
+  "i": 3,
+  "start": 6.27,
+  "speechStart": 6.42,
+  "speechEnd": 8.04,
+  "text": "Mide tres metros con diez.",
+  "end": 8.51
+ },
+ {
+  "i": 4,
+  "start": 8.51,
+  "speechStart": 8.66,
+  "speechEnd": 10.76,
+  "text": "Treinta y cinco centímetros más que tú.",
+  "end": 11.11
+ },
+ {
+  "i": 5,
+  "start": 11.11,
+  "speechStart": 11.26,
+  "speechEnd": 14.26,
+  "text": "Gabardina, sombrero y un bastón en cada mano.",
+  "end": 14.61
+ },
+ {
+  "i": 6,
+  "start": 14.61,
+  "speechStart": 14.76,
+  "speechEnd": 16.64,
+  "text": "\"Te vi levantar a tu hermano\", dice.",
+  "end": 17.07
+ },
+ {
+  "i": 7,
+  "start": 17.07,
+  "speechStart": 17.22,
+  "speechEnd": 18.46,
+  "text": "\"Yo elegí el contrato.\"",
+  "end": 18.93
+ },
+ {
+  "i": 8,
+  "start": 18.93,
+  "speechStart": 19.08,
+  "speechEnd": 21.8,
+  "text": "Hace veinte años era el mejor jugador del mundo.",
+  "end": 22.31
+ },
+ {
+  "i": 9,
+  "start": 22.31,
+  "speechStart": 22.46,
+  "speechEnd": 24.42,
+  "text": "Hoy no puede subir una escalera.",
+  "end": 25.01
+ },
+ {
+  "i": 10,
+  "start": 25.01,
+  "speechStart": 25.16,
+  "speechEnd": 28.12,
+  "text": "Leo le pregunta lo de siempre. ¿Cómo está el clima allá arriba?",
+  "end": 27.97
+ },
+ {
+  "i": 11,
+  "start": 27.97,
+  "speechStart": 28.12,
+  "speechEnd": 32.14,
+  "text": "Él sonríe por primera vez. \"Nublado, pequeño.\"",
+  "end": 32.65
+ },
+ {
+  "i": 12,
+  "start": 32.65,
+  "speechStart": 32.8,
+  "speechEnd": 34.56,
+  "text": "¿Por qué nadie llega a los tres metros?",
+  "end": 34.89
+ },
+ {
+  "i": 13,
+  "start": 34.89,
+  "speechStart": 35.04,
+  "speechEnd": 36.6,
+  "text": "Por la regla que ya conoces.",
+  "end": 36.93
+ },
+ {
+  "i": 14,
+  "start": 36.93,
+  "speechStart": 37.08,
+  "speechEnd": 41.04,
+  "text": "Si tu altura se duplica, tus huesos son cuatro veces más fuertes.",
+  "end": 41.11
+ },
+ {
+  "i": 15,
+  "start": 41.11,
+  "speechStart": 41.26,
+  "speechEnd": 43.36,
+  "text": "Pero tu peso se multiplica por ocho.",
+  "end": 43.57
+ },
+ {
+  "i": 16,
+  "start": 43.57,
+  "speechStart": 43.72,
+  "speechEnd": 45.48,
+  "text": "Tu esqueleto pierde la carrera.",
+  "end": 45.83
+ },
+ {
+  "i": 17,
+  "start": 45.83,
+  "speechStart": 45.98,
+  "speechEnd": 49.84,
+  "text": "Todo empieza en una glándula del tamaño de un guisante: la hipófisis.",
+  "end": 50.23
+ },
+ {
+  "i": 18,
+  "start": 50.23,
+  "speechStart": 50.38,
+  "speechEnd": 55.4,
+  "text": "Si no deja de enviar la orden de crecer, tú no dejas de crecer. Por eso te buscó.",
+  "end": 55.65
+ },
+ {
+  "i": 19,
+  "start": 55.65,
+  "speechStart": 55.8,
+  "speechEnd": 57.42,
+  "text": "Te da un papel con una dirección.",
+  "end": 57.27
+ },
+ {
+  "i": 20,
+  "start": 57.27,
+  "speechStart": 57.42,
+  "speechEnd": 60.36,
+  "text": "Una doctora que puede detener tu crecimiento.",
+  "end": 60.59
+ },
+ {
+  "i": 21,
+  "start": 60.59,
+  "speechStart": 60.74,
+  "speechEnd": 63.02,
+  "text": "Pero el entrenador te dio otra oportunidad.",
+  "end": 63.49
+ },
+ {
+  "i": 22,
+  "start": 63.49,
+  "speechStart": 63.64,
+  "speechEnd": 64.84,
+  "text": "Mañana a las nueve.",
+  "end": 65.09
+ },
+ {
+  "i": 23,
+  "start": 65.09,
+  "speechStart": 65.24,
+  "speechEnd": 69.26,
+  "text": "La cita con la doctora también es mañana a las nueve. Otra vez:",
+  "end": 69.49
+ },
+ {
+  "i": 24,
+  "start": 69.49,
+  "speechStart": 69.64,
+  "speechEnd": 71.28,
+  "text": "la cancha o tu cuerpo.",
+  "end": 71.65
+ },
+ {
+  "i": 25,
+  "start": 71.65,
+  "speechStart": 71.8,
+  "speechEnd": 73.04,
+  "text": "Leo te toma la mano.",
+  "end": 73.35
+ },
+ {
+  "i": 26,
+  "start": 73.35,
+  "speechStart": 73.5,
+  "speechEnd": 74.74,
+  "text": "No te pregunta por el clima.",
+  "end": 75.01
+ },
+ {
+  "i": 27,
+  "start": 75.01,
+  "speechStart": 75.16,
+  "speechEnd": 77.42,
+  "text": "Te pregunta si vas a dejar de crecer.",
+  "end": 77.93
+ },
+ {
+  "i": 28,
+  "start": 77.93,
+  "speechStart": 78.08,
+  "speechEnd": 79.44,
+  "text": "¿Y tú qué elegirías?",
+  "end": 79.81
+ },
+ {
+  "i": 29,
+  "start": 79.81,
+  "speechStart": 79.96,
+  "speechEnd": 83.78,
+  "text": "¿Seguir creciendo o quedarte como estás? Cuéntanos en los comentarios.",
+  "end": 83.63
+ },
+ {
+  "i": 30,
+  "start": 83.63,
+  "speechStart": 83.78,
+  "speechEnd": 87.82,
+  "text": "Y si quieres saber qué decides, suscríbete para la parte tres.",
+  "end": 89.32
+ }
+]

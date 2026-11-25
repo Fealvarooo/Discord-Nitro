@@ -1,0 +1,714 @@
+{
+ "title": "¿Qué pasaría si conocieras a alguien más alto que tú?",
+ "duration": 89.32,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 2.0,
+   "line": "Una sombra tapa la luna.",
+   "scene": "Niebla de noche: una silueta enorme tapa la luna poco a poco",
+   "set": "fog",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s002",
+   "start": 2.0,
+   "end": 3.75,
+   "line": "Tienes que mirar hacia arriba.",
+   "scene": "Primer plano gigante: tú, sorprendido, miras hacia arriba",
+   "set": "fog",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s003",
+   "start": 3.75,
+   "end": 6.25,
+   "line": "Por primera vez en tu vida.",
+   "scene": "Contrapicado: tú (2,75 m) junto a Tomás (3,10 m), más alto que tú",
+   "set": "fog",
+   "bars": "scope",
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s004",
+   "start": 6.25,
+   "end": 8.5,
+   "line": "Mide tres metros con diez.",
+   "scene": "Plano técnico: tu figura dorada y la de Tomás en coral; cota 3,10 m",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s005",
+   "start": 8.5,
+   "end": 11.1,
+   "line": "Treinta y cinco centímetros más que tú.",
+   "scene": "Acercamiento a las cabezas: hueco de +35 cm marcado",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s006",
+   "start": 11.1,
+   "end": 14.6,
+   "line": "Gabardina, sombrero y un bastón en cada mano.",
+   "scene": "Feria de noche: la cámara sube de los bastones al sombrero de Tomás",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.1,
+     "name": "footstep",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s007",
+   "start": 14.6,
+   "end": 16.3,
+   "line": "\"Te vi levantar a tu hermano\", dice.",
+   "scene": "Primer plano de Tomás hablando, lentes oscuros, luces de feria detrás",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s008",
+   "start": 16.3,
+   "end": 18.9,
+   "line": "\"Yo elegí el contrato.\"",
+   "scene": "Detalle: un contrato viejo y arrugado con firma en su mano",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "swish",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s009",
+   "start": 18.9,
+   "end": 22.3,
+   "line": "Hace veinte años era el mejor jugador del mundo.",
+   "scene": "Recuerdo dorado: Tomás joven en la cancha, la multitud lo aclama, insignia HACE 20 AÑOS",
+   "set": "court",
+   "bars": null,
+   "in": {
+    "type": "dipWhite",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "cheer",
+     "gain": -14
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s010",
+   "start": 22.3,
+   "end": 25.0,
+   "line": "Hoy no puede subir una escalera.",
+   "scene": "Escalera fría: Tomás con sus bastones al pie, no puede subir",
+   "set": "stairs",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "footstep",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "hum",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s011",
+   "start": 25.0,
+   "end": 26.85,
+   "line": "Leo le pregunta lo de siempre.",
+   "scene": "Feria: Leo junto a ti mira hacia arriba a Tomás",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s012",
+   "start": 26.85,
+   "end": 28.0,
+   "line": "¿Cómo está el clima allá arriba?",
+   "scene": "Primer plano de Leo preguntando",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s013",
+   "start": 28.0,
+   "end": 30.9,
+   "line": "Él sonríe por primera vez.",
+   "scene": "Primer plano de Tomás: la sonrisa aparece por primera vez, brilla su bufanda dorada",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.9,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s014",
+   "start": 30.9,
+   "end": 32.65,
+   "line": "\"Nublado, pequeño.\"",
+   "scene": "Tomás se inclina hacia Leo y le responde",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s015",
+   "start": 32.65,
+   "end": 34.9,
+   "line": "¿Por qué nadie llega a los tres metros?",
+   "scene": "Frase grande ¿POR QUÉ NADIE LLEGA A 3 METROS?",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s016",
+   "start": 34.9,
+   "end": 36.95,
+   "line": "Por la regla que ya conoces.",
+   "scene": "Plano técnico: la regla de la parte 1, rodillas en coral",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s017",
+   "start": 36.95,
+   "end": 41.1,
+   "line": "Si tu altura se duplica, tus huesos son cuatro veces más fuertes.",
+   "scene": "Un cubo se duplica: ALTURA ×2, HUESOS ×4",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "pop",
+     "gain": -12
+    },
+    {
+     "at": 2.3,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s018",
+   "start": 41.1,
+   "end": 43.6,
+   "line": "Pero tu peso se multiplica por ocho.",
+   "scene": "El cubo se llena: PESO ×8 en coral",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.9,
+     "name": "impact",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s019",
+   "start": 43.6,
+   "end": 45.85,
+   "line": "Tu esqueleto pierde la carrera.",
+   "scene": "Carrera: la barra del PESO adelanta a la de los HUESOS",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s020",
+   "start": 45.85,
+   "end": 50.25,
+   "line": "Todo empieza en una glándula del tamaño de un guisante: la hipófisis.",
+   "scene": "Cabeza en plano técnico, un punto dorado en la base del cerebro: HIPÓFISIS, junto a un guisante",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 3.4,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s021",
+   "start": 50.25,
+   "end": 54.35,
+   "line": "Si no deja de enviar la orden de crecer, tú no dejas de crecer.",
+   "scene": "La glándula late y manda flechas CRECE; la figura no para de crecer",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "heartbeat",
+     "gain": -10
+    },
+    {
+     "at": 1.4,
+     "name": "heartbeat",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s022",
+   "start": 54.35,
+   "end": 57.3,
+   "line": "Por eso te buscó. Te da un papel con una dirección.",
+   "scene": "Feria: Tomás te entrega un papel doblado",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.6,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s023",
+   "start": 57.3,
+   "end": 60.6,
+   "line": "Una doctora que puede detener tu crecimiento.",
+   "scene": "Detalle: el papel en tu mano con DRA. VEGA y la dirección",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s024",
+   "start": 60.6,
+   "end": 63.5,
+   "line": "Pero el entrenador te dio otra oportunidad.",
+   "scene": "Celular: mensaje del ENTRENADOR, última oportunidad",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "phonebuzz",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s025",
+   "start": 63.5,
+   "end": 65.1,
+   "line": "Mañana a las nueve.",
+   "scene": "Reloj gigante 9:00 con la etiqueta CANCHA",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "clock",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s026",
+   "start": 65.1,
+   "end": 68.5,
+   "line": "La cita con la doctora también es mañana a las nueve.",
+   "scene": "Dos relojes 9:00: CANCHA y DOCTORA",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.7,
+     "name": "clock",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s027",
+   "start": 68.5,
+   "end": 71.65,
+   "line": "Otra vez: la cancha o tu cuerpo.",
+   "scene": "CONGELADO: tú en el centro, a un lado el aro brillando, al otro tu cuerpo en plano técnico",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -6
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s028",
+   "start": 71.65,
+   "end": 73.35,
+   "line": "Leo te toma la mano.",
+   "scene": "Dormitorio de noche: la mano pequeña de Leo toma tu dedo",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s029",
+   "start": 73.35,
+   "end": 75.0,
+   "line": "No te pregunta por el clima.",
+   "scene": "Leo sentado en la cama mira hacia arriba; tú sentado a su lado, la luna",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s030",
+   "start": 75.0,
+   "end": 77.9,
+   "line": "Te pregunta si vas a dejar de crecer.",
+   "scene": "Primer plano de Leo preocupado, luz de luna",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s031",
+   "start": 77.9,
+   "end": 89.32,
+   "line": "¿Y tú qué elegirías? ¿Seguir creciendo o quedarte como estás? Cuéntanos en los comentarios. Y si quieres saber qué decides, suscríbete para la parte tres.",
+   "scene": "Pantalla final: pregunta, comentario, suscripción, reparto (tú, Leo, Tomás), insignia PARTE 3",
+   "set": "end",
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "captions": false
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 14.6,
+   "mood": "mystery",
+   "intensity": 0.45
+  },
+  {
+   "start": 14.6,
+   "end": 25.0,
+   "mood": "sad",
+   "intensity": 0.35
+  },
+  {
+   "start": 25.0,
+   "end": 32.65,
+   "mood": "hopeful",
+   "intensity": 0.35
+  },
+  {
+   "start": 32.65,
+   "end": 54.35,
+   "mood": "wonder",
+   "intensity": 0.45
+  },
+  {
+   "start": 54.35,
+   "end": 71.65,
+   "mood": "tension",
+   "intensity": 0.55
+  },
+  {
+   "start": 71.65,
+   "end": 77.9,
+   "mood": "sad",
+   "intensity": 0.3
+  },
+  {
+   "start": 77.9,
+   "end": 89.32,
+   "mood": "calm",
+   "intensity": 0.3
+  }
+ ]
+}
