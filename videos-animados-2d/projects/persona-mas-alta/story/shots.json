@@ -1,0 +1,923 @@
+{
+ "title": "¿Qué pasaría si fueras la persona más alta del mundo?",
+ "duration": 100.28,
+ "shots": [
+  {
+   "id": "s001",
+   "start": 0.0,
+   "end": 2.0,
+   "line": "Te golpeas con la lámpara,",
+   "scene": "Cocina cálida, abierta: el gigante (tú) camina y su cabeza choca con la lámpara colgante, que se balancea",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "hit",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s002",
+   "start": 2.0,
+   "end": 4.0,
+   "line": "el frasco del estante más alto.",
+   "scene": "Detalle: estante altísimo con un frasco; la mano del gigante lo alcanza sin esfuerzo",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s003",
+   "start": 4.0,
+   "end": 7.9,
+   "line": "Sólo lo bajas y saludas a la lámpara.",
+   "scene": "Plano medio: el gigante con el frasco en la mano saluda a la lámpara que aún se mece, sonrisa pícara",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s004",
+   "start": 7.9,
+   "end": 11.4,
+   "line": "La persona promedio mide alrededor de un metro setenta.",
+   "scene": "Plano técnico: figura de líneas normal y cota 1,70 m que se dibuja",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 2.0,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s005",
+   "start": 11.4,
+   "end": 12.05,
+   "line": "¿Tú?",
+   "scene": "Primer plano gigante del protagonista mirando hacia abajo, sonrisa pícara",
+   "set": "kitchen",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s006",
+   "start": 12.05,
+   "end": 14.15,
+   "line": "Dos metros setenta y cinco.",
+   "scene": "Plano técnico: aparece tu figura gigante al lado de la normal, cota dorada 2,75 m",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "riser",
+     "gain": -12
+    },
+    {
+     "at": 1.3,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s007",
+   "start": 14.15,
+   "end": 17.95,
+   "line": "Más que el récord histórico. Dos metros setenta y dos.",
+   "scene": "Plano técnico: línea punteada del récord en 2,72 m justo debajo de tu cabeza, etiqueta RÉCORD",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 2.2,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s008",
+   "start": 17.95,
+   "end": 19.8,
+   "line": "Pero hay una regla.",
+   "scene": "Frase grande PERO HAY UNA REGLA sobre fondo oscuro, silueta del gigante",
+   "set": "void",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "stinger",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s009",
+   "start": 19.8,
+   "end": 23.05,
+   "line": "Tu cuerpo creció. Tus rodillas, no.",
+   "scene": "Plano técnico: pierna gigante, la figura crece pero la rodilla queda igual y se marca en coral: RODILLAS",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.8,
+     "name": "glitch",
+     "gain": -12
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s010",
+   "start": 23.05,
+   "end": 26.1,
+   "line": "Tu peso crece más rápido que tus huesos.",
+   "scene": "Barras comparativas: ALTURA 1,6x, HUESOS 2,6x, PESO 4,3x",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "counter",
+     "gain": -14
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s011",
+   "start": 26.1,
+   "end": 29.2,
+   "line": "¿Y qué pasaría si fueras la persona más alta del mundo?",
+   "scene": "Tarjeta de título sobre ciudad al atardecer con la silueta del gigante sobre los edificios bajos",
+   "set": "title",
+   "bars": "scope",
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "riser",
+     "gain": -10
+    },
+    {
+     "at": 0.9,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -26
+   },
+   "captions": false
+  },
+  {
+   "id": "s012",
+   "start": 29.2,
+   "end": 34.5,
+   "line": "A favor, un aro de básquet está a tres metros con cinco centímetros.",
+   "scene": "3D: cancha de básquet al atardecer con reflectores, órbita lenta alrededor del gigante junto al aro, dato 3,05 m",
+   "set": "court",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s013",
+   "start": 34.5,
+   "end": 36.9,
+   "line": "Lo tocas sin saltar.",
+   "scene": "Plano medio: el gigante de pie, pies en el suelo, toca el aro con la mano; anillos de luz",
+   "set": "court",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.55,
+     "name": "ding",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s014",
+   "start": 36.9,
+   "end": 40.3,
+   "line": "En contra, las puertas miden unos dos metros.",
+   "scene": "Pasillo de casa: puerta iluminada con cota 2 m; el gigante se acerca, mucho más alto que el marco",
+   "set": "house",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "swish",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s015",
+   "start": 40.3,
+   "end": 41.9,
+   "line": "Tu frente lo sabe.",
+   "scene": "Primer plano: la frente del gigante choca con el marco, sacudida y estrellitas",
+   "set": "house",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.25,
+     "name": "impact",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -26
+   }
+  },
+  {
+   "id": "s016",
+   "start": 41.9,
+   "end": 44.8,
+   "line": "Las camas suelen medir un metro noventa.",
+   "scene": "Dormitorio con luz de luna: el gigante acostado, los pies cuelgan fuera de la cama, cota 1,90 m",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s017",
+   "start": 44.8,
+   "end": 45.8,
+   "line": "¿El problema?",
+   "scene": "Primer plano gigante preocupado en la oscuridad azul",
+   "set": "bedroom",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "roomtone",
+    "gain": -28
+   }
+  },
+  {
+   "id": "s018",
+   "start": 45.8,
+   "end": 49.0,
+   "line": "Tu corazón empuja sangre mucho más arriba.",
+   "scene": "Plano técnico: figura altísima, el corazón late en coral y una línea de sangre sube punteada hasta la cabeza",
+   "set": "blueprint",
+   "bars": null,
+   "in": {
+    "type": "zoom",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "heartbeat",
+     "gain": -8
+    },
+    {
+     "at": 1.2,
+     "name": "heartbeat",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s019",
+   "start": 49.0,
+   "end": 50.5,
+   "line": "Y la gente mira.",
+   "scene": "Calle al atardecer: el gigante camina, la gente pequeña se gira y mira hacia arriba",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s020",
+   "start": 50.5,
+   "end": 52.1,
+   "line": "¿Tu hermanito Leo? No.",
+   "scene": "Aparece Leo (gorra roja) a su lado, niega con la cabeza sonriendo",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.1,
+     "name": "pop",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s021",
+   "start": 52.1,
+   "end": 54.25,
+   "line": "Él pregunta siempre lo mismo.",
+   "scene": "Contrapicado de los dos: Leo tira de la mano del gigante y mira hacia arriba",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s022",
+   "start": 54.25,
+   "end": 56.25,
+   "line": "¿Cómo está el clima allá arriba?",
+   "scene": "Primer plano gigante de Leo hablando, mirando hacia arriba",
+   "set": "street",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "city",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s023",
+   "start": 56.25,
+   "end": 58.6,
+   "line": "En la feria, entre miles de personas,",
+   "scene": "3D: feria de noche, rueda de la fortuna iluminada y multitud, vuelo de cámara",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "whip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "whoosh",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -18
+   }
+  },
+  {
+   "id": "s024",
+   "start": 58.6,
+   "end": 60.75,
+   "line": "Leo desaparece.",
+   "scene": "La multitud se traga la gorra roja de Leo; el gigante gira asustado",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 1.0,
+     "name": "stinger",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -18
+   }
+  },
+  {
+   "id": "s025",
+   "start": 60.75,
+   "end": 63.15,
+   "line": "Tu celular suena. El entrenador.",
+   "scene": "Detalle: celular vibrando en la mano, en pantalla ENTRENADOR",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.15,
+     "name": "phonering",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s026",
+   "start": 63.15,
+   "end": 65.3,
+   "line": "Prueba final en diez minutos.",
+   "scene": "Cuenta regresiva 10:00 brillante con la etiqueta PRUEBA FINAL",
+   "set": "void",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "clock",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -24
+   }
+  },
+  {
+   "id": "s027",
+   "start": 65.3,
+   "end": 66.75,
+   "line": "No puedes correr.",
+   "scene": "El gigante intenta correr entre la multitud, pasos lentos y torpes",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "footstep",
+     "gain": -10
+    },
+    {
+     "at": 0.9,
+     "name": "footstep",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -18
+   }
+  },
+  {
+   "id": "s028",
+   "start": 66.75,
+   "end": 68.75,
+   "line": "Tus rodillas no aguantan.",
+   "scene": "Plano medio: el gigante se dobla con las manos en las rodillas, que brillan en rojo",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "hit",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -18
+   }
+  },
+  {
+   "id": "s029",
+   "start": 68.75,
+   "end": 72.05,
+   "line": "El contrato o tu hermano cuelgas.",
+   "scene": "CONGELADO: el tiempo se detiene, la multitud quieta; a un lado el celular (CONTRATO), al otro la gorra roja (LEO); cuelgas",
+   "set": "fair",
+   "bars": "scope",
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "freeze",
+     "gain": -6
+    },
+    {
+     "at": 2.15,
+     "name": "blip",
+     "gain": -8
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "s030",
+   "start": 72.05,
+   "end": 73.7,
+   "line": "Te subes a una banca.",
+   "scene": "El gigante se sube a una banca, sobresale por encima de la multitud",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "flash",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.5,
+     "name": "footstep",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -18
+   }
+  },
+  {
+   "id": "s031",
+   "start": 73.7,
+   "end": 76.3,
+   "line": "Tus ojos quedan a casi tres metros.",
+   "scene": "El gigante arriba de la banca mira la feria; cota del suelo a sus ojos: casi 3 m",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.8,
+     "name": "blip",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -18
+   }
+  },
+  {
+   "id": "s032",
+   "start": 76.3,
+   "end": 78.7,
+   "line": "Una gorra roja llorando.",
+   "scene": "Vista desde arriba: mar de cabezas negras y una sola gorra roja; Leo llora",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.3,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s033",
+   "start": 78.7,
+   "end": 80.0,
+   "line": "Lo levantas.",
+   "scene": "El gigante levanta a Leo por encima de la multitud",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "whoosh",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -20
+   }
+  },
+  {
+   "id": "s034",
+   "start": 80.0,
+   "end": 82.0,
+   "line": "¿Cómo está el clima allá arriba?",
+   "scene": "Primer plano de Leo en lo alto, entre lágrimas y sonrisa, luces de feria detrás",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s035",
+   "start": 82.0,
+   "end": 83.35,
+   "line": "Despejado, Leo.",
+   "scene": "Plano abierto: Leo sobre los hombros del gigante, silueta frente a la rueda iluminada y estrellas",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.2,
+     "name": "shimmer",
+     "gain": -12
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s036",
+   "start": 83.35,
+   "end": 85.45,
+   "line": "Ahora sí, llega un mensaje.",
+   "scene": "Detalle: notificación de mensaje en el celular",
+   "set": "fair",
+   "bars": null,
+   "in": {
+    "type": "cut"
+   },
+   "sfx": [
+    {
+     "at": 0.4,
+     "name": "phonebuzz",
+     "gain": -8
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "murmur",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s037",
+   "start": 85.45,
+   "end": 89.2,
+   "line": "Alguien más alto que tú te está buscando.",
+   "scene": "Silueta enorme con sombrero y gabardina en la niebla, todavía más alta que tú, tono frío",
+   "set": "fog",
+   "bars": "scope",
+   "in": {
+    "type": "dip",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.0,
+     "name": "riser",
+     "gain": -8
+    },
+    {
+     "at": 2.4,
+     "name": "stinger",
+     "gain": -6
+    }
+   ],
+   "notes": "",
+   "amb": {
+    "name": "wind",
+    "gain": -22
+   }
+  },
+  {
+   "id": "s038",
+   "start": 89.2,
+   "end": 100.28,
+   "line": "¿Y tú qué harías con esa altura? Cuéntanos qué alcanzarías primero en los comentarios. Y si Leo te sacó una sonrisa, dale like y suscríbete para la parte dos.",
+   "scene": "Pantalla final: pregunta, burbuja de comentario, botón Suscríbete, reparto en fila",
+   "set": "end",
+   "bars": "none",
+   "in": {
+    "type": "fade",
+    "dur": 0.4
+   },
+   "sfx": [
+    {
+     "at": 0.6,
+     "name": "pop",
+     "gain": -10
+    }
+   ],
+   "notes": "",
+   "captions": false
+  }
+ ],
+ "music": [
+  {
+   "start": 0,
+   "end": 26.1,
+   "mood": "playful",
+   "intensity": 0.35
+  },
+  {
+   "start": 26.1,
+   "end": 56.25,
+   "mood": "wonder",
+   "intensity": 0.45
+  },
+  {
+   "start": 56.25,
+   "end": 72.05,
+   "mood": "tension",
+   "intensity": 0.6
+  },
+  {
+   "start": 72.05,
+   "end": 85.45,
+   "mood": "hopeful",
+   "intensity": 0.55
+  },
+  {
+   "start": 85.45,
+   "end": 89.2,
+   "mood": "mystery",
+   "intensity": 0.5
+  },
+  {
+   "start": 89.2,
+   "end": 100.28,
+   "mood": "calm",
+   "intensity": 0.3
+  }
+ ]
+}
