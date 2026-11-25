@@ -1,0 +1,5 @@
+videos-animados-2d/node_modules/
+videos-animados-2d/**/build/
+__pycache__/
+videos-animados-2d/projects/*/input/
+videos-animados-2d/projects/*/out/
