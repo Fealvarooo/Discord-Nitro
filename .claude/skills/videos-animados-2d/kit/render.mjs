@@ -37,7 +37,7 @@ const CFG = JSON.parse(fs.readFileSync(path.join(PROJECT, 'config.json'), 'utf8'
 const FPS = CFG.fps || 24;
 
 async function openPlayer(browser, style) {
-  const qs = new URLSearchParams(); if (args.thumbs) qs.set('thumbs', '1'); else if (args.scale) qs.set('scale', args.scale); if (style || args.style) qs.set('style', style || args.style); if (args.debug) qs.set('debug', '1');
+  const qs = new URLSearchParams(); if (args.thumbs) qs.set('thumbs', args.vertical ? 'v' : '1'); else if (args.scale) qs.set('scale', args.scale); if (style || args.style) qs.set('style', style || args.style); if (args.debug) qs.set('debug', '1');
   const page = await browser.newPage({ viewport: { width: 640, height: 360 } });
   page.on('pageerror', e => console.log('[pageerror]', e.message));
   page.on('console', m => { const t = m.text(); if (/ERROR|missing/i.test(t)) console.log('[page]', t); });
@@ -103,8 +103,8 @@ async function renderStills() {
 }
 async function renderThumbs() {
   const browser = await chromium.launch(LAUNCH); const page = await openPlayer(browser);
-  const outDir = path.join(PROJECT, 'out', 'miniaturas'); fs.rmSync(outDir, { recursive: true, force: true }); fs.mkdirSync(outDir, { recursive: true });
-  const list = await page.evaluate('window.SHOT_LIST'); const story = JSON.parse(fs.readFileSync(path.join(PROJECT, 'story', 'thumbs.json'), 'utf8'));
+  const outDir = path.join(PROJECT, 'out', args.vertical ? 'miniaturas_short' : 'miniaturas'); fs.rmSync(outDir, { recursive: true, force: true }); fs.mkdirSync(outDir, { recursive: true });
+  const list = await page.evaluate('window.SHOT_LIST'); const story = JSON.parse(fs.readFileSync(path.join(PROJECT, 'story', args.vertical ? 'thumbs_short.json' : 'thumbs.json'), 'utf8'));
   const all = [];
   for (let k = 0; k < list.length; k++) {
     const s = list[k], def = story.shots[k] || {}, t = s.start + (def.at ?? (s.end - s.start) * 0.5);
@@ -112,8 +112,8 @@ async function renderThumbs() {
     const name = `miniatura_${k + 1}.png`; fs.writeFileSync(path.join(outDir, name), img); all.push({ img, label: `${name}  ${s.id}${s.ok ? '' : '  (MISSING)'}  ${def.title || ''}` });
   }
   (await page.evaluate('window.ERRORS')).forEach(e => console.log('  shot error:', e)); await page.close();
-  if (all.length) await contactSheet(browser, all, path.join(BUILD, 'thumbs_sheet.png'), Math.min(3, all.length), 560);
-  await browser.close(); console.log(`Wrote ${all.length} thumbnails (1280x720) to ${outDir}`);
+  if (all.length) await contactSheet(browser, all, path.join(BUILD, args.vertical ? 'thumbs_short_sheet.png' : 'thumbs_sheet.png'), Math.min(3, all.length), 560);
+  await browser.close(); console.log(`Wrote ${all.length} thumbnails (${args.vertical ? '1080x1920' : '1280x720'}) to ${outDir}`);
 }
 try { if (args.thumbs) await renderThumbs(); else if (args.sheet || args.stills || args.styles) await renderStills(); else await renderVideo(); }
 catch (e) { console.error('RENDER FAILED:', e.message); process.exitCode = 1; }

@@ -59,6 +59,7 @@ registerShot('s008', { kind: '3d',                   // 3D: init una vez (T = th
 ```
 - Escenas en `scenes/thumbs/*.js` con `registerShot('thumb1', { draw(g, t, info) {…} })`. Pueden importar `../cast.js` y `../sets/*.js` (ruta relativa desde `scenes/thumbs/`).
 - `node render.mjs --project projects/<slug> --thumbs` dibuja cada toma a la mitad de su duración (o en `"at"` segundos) y guarda `out/miniaturas/miniatura_N.png` a 1280×720, más `build/thumbs_sheet.png`. Siempre en 16:9 (lógico 1920×1080, `E.vertical = false`), sin subtítulos, sin fundidos y sin barras (`config.thumbBars` para cambiarlo). El color y la viñeta del estilo sí se aplican.
+- **Miniaturas verticales (Shorts, TikTok, Reels):** escribe `story/thumbs_short.json` (mismo esquema, ids `short1`, `short2`, `short3`) y `scenes/thumbs/shorts.js`, y renderiza con `node render.mjs --project projects/<slug> --thumbs --vertical`. Sale `out/miniaturas_short/miniatura_N.png` a 1080×1920 (lógico 1080×1920, `E.vertical = true`) y `build/thumbs_short_sheet.png`. Texto arriba (y ≈ 150, centrado, `maxW` ≈ 90 % del ancho), sujeto en el centro, y nada importante en el 25 % inferior ni en el borde derecho (ahí van los botones de la plataforma).
 - `UI.thumbText(g, lines, { x = 80, y = 70, size = 190, maxW = E.W*0.52, align = 'left'|'center', colors = ['#ffffff', '#FFD23F'] })`: 1–3 líneas grandes con borde oscuro letra por letra y sombra. `lines` acepta strings o `{ str, color, size }`. Devuelve la `y` debajo de la última línea.
 
 ## Texto en español

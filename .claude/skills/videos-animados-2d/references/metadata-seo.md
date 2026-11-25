@@ -68,6 +68,8 @@ Cada miniatura se diseña para **su** título: el texto completa la pregunta del
 2. **Escena abierta + número gigante:** el escenario del video visto desde arriba o en plano abierto, 1–2 personajes pequeños, una luz cálida, y un texto o número enorme arriba al centro. (Como SOLO QUEDAN 2.)
 3. **Acción o dilema:** el personaje de cuerpo entero haciendo la acción clave (`drawFigure` escala 2–2,6), con un elemento que muestra el resultado: rayitas, contador, reloj, trayectoria, dos caminos. (Como DÍA 300. o NUNCA FALLAS.)
 
+**Formato vertical:** si el video es 9:16, entrega también las 3 miniaturas en vertical (1080×1920) con `--thumbs --vertical` (ver engine-api.md). Mismo texto y misma idea que las horizontales, pero apiladas: texto arriba, personaje grande al centro, cuarto inferior libre. Avisa al usuario de que YouTube Shorts no deja subir miniatura propia (se elige un fotograma), pero TikTok y Reels sí aceptan portada.
+
 **Reglas visuales:**
 - Mismo personaje, misma ropa y mismo estilo que el video (usa `scenes/cast.js` y los escenarios del video).
 - Fondo oscuro y desenfocado (`blurLayer` + `veil`), una sola luz fuerte, alto contraste. Que se entienda en tamaño pequeño, como se ve en el celular.

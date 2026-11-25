@@ -19,9 +19,9 @@ async function loadFonts() {
 }
 async function boot() {
   let cfg = await (await fetch(`${PROJ}/config.json`)).json();
-  const THUMBS = q.has('thumbs');
-  if (THUMBS) cfg = { ...cfg, aspect: '16:9', resolution: '720p', captions: false, fadeIn: 0, fadeOut: 0, bars: cfg.thumbBars ?? 'none' };
-  const story = await (await fetch(`${PROJ}/story/${THUMBS ? 'thumbs' : 'shots'}.json`)).json();
+  const THUMBS = q.has('thumbs'), VTH = q.get('thumbs') === 'v';
+  if (THUMBS) cfg = { ...cfg, aspect: VTH ? '9:16' : '16:9', resolution: VTH ? '1080p' : '720p', captions: false, fadeIn: 0, fadeOut: 0, bars: cfg.thumbBars ?? 'none' };
+  const story = await (await fetch(`${PROJ}/story/${THUMBS ? (VTH ? 'thumbs_short' : 'thumbs') : 'shots'}.json`)).json();
   let words = []; try { const r = await fetch(`${PROJ}/timeline/words.json`); if (r.ok) words = await r.json(); } catch {}
   const vertical = (cfg.aspect || '16:9') === '9:16';
   const short = RES[cfg.resolution || '1080p'] || 1080, long = Math.round((short * 16) / 9 / 2) * 2;

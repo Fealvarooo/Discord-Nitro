@@ -116,11 +116,11 @@ Lee `references/render-qc.md`.
 ## Etapa 9: Metadatos para YouTube
 Lee `references/metadata-seo.md` completo y entrega siempre, en español:
 1. **3 títulos** a partir del nombre del archivo de la voz (`python tools/metadata.py --project projects/<slug> --base`), cada uno con una emoción distinta (curiosidad, intriga, deseo, miedo/dolor, reto o dilema).
-2. **3 miniaturas** de 1280×720 en el estilo del video, una por título y con composiciones distintas: escribe `story/thumbs.json` y `scenes/thumbs/thumbs.js`, renderiza con `node render.mjs --project projects/<slug> --thumbs`, abre `build/thumbs_sheet.png` y corrige hasta que se lean bien en pequeño.
+2. **3 miniaturas** de 1280×720 en el estilo del video, una por título y con composiciones distintas: escribe `story/thumbs.json` y `scenes/thumbs/thumbs.js`, renderiza con `node render.mjs --project projects/<slug> --thumbs`, abre `build/thumbs_sheet.png` y corrige hasta que se lean bien en pequeño. Si el video es 9:16, haz también la versión vertical (1080×1920) con `story/thumbs_short.json` + `scenes/thumbs/shorts.js` y `node render.mjs --project projects/<slug> --thumbs --vertical`.
 3. **Descripción** con gancho, resumen, capítulos, pregunta, suscripción y 3–5 hashtags.
 4. **Etiquetas** dentro del límite de YouTube.
 
-Guarda todo en `story/metadata.json` y ejecuta `python tools/metadata.py --project projects/<slug>` hasta que diga OK; genera `out/metadatos.txt`. Envía las 3 miniaturas y `metadatos.txt`, muestra títulos, descripción y etiquetas en bloques de código para copiar, y termina con la combinación título + miniatura que recomiendas probar primero y una línea sobre qué se podría ajustar.
+Guarda todo en `story/metadata.json` y ejecuta `python tools/metadata.py --project projects/<slug>` hasta que diga OK; genera `out/metadatos.txt`. Envía las 3 miniaturas (y las verticales si las hay) y `metadatos.txt`, muestra títulos, descripción y etiquetas en bloques de código para copiar, y termina con la combinación título + miniatura que recomiendas probar primero y una línea sobre qué se podría ajustar.
 
 ## Valores por defecto y criterio
 - Si dudas sobre una imagen, elige la opción más literal y más cinematográfica: primer plano para emociones, toma de detalle para objetos, plano técnico para mecanismos y 3D para espacios grandes.
