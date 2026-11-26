@@ -1,0 +1,242 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "speechStart": 0.0,
+  "speechEnd": 5.34,
+  "text": "Sobre la cabeza de cada persona flota un número. Tu jefe: doce. Tu crush:",
+  "end": 5.19
+ },
+ {
+  "i": 1,
+  "start": 5.19,
+  "speechStart": 5.34,
+  "speechEnd": 7.0,
+  "text": "cero. ¿Tu mamá?",
+  "end": 6.85
+ },
+ {
+  "i": 2,
+  "start": 6.85,
+  "speechStart": 7.0,
+  "speechEnd": 10.38,
+  "text": "Trescientas cuarenta... y todas por ti.",
+  "end": 10.73
+ },
+ {
+  "i": 3,
+  "start": 10.73,
+  "speechStart": 10.88,
+  "speechEnd": 13.96,
+  "text": "La persona promedio dice una o dos mentiras al día.",
+  "end": 14.23
+ },
+ {
+  "i": 4,
+  "start": 14.23,
+  "speechStart": 14.38,
+  "speechEnd": 20.68,
+  "text": "Lo midió un estudio en 1996. ¿Tú? Ahora las ves todas. Pero hay una regla.",
+  "end": 21.03
+ },
+ {
+  "i": 5,
+  "start": 21.03,
+  "speechStart": 21.18,
+  "speechEnd": 23.6,
+  "text": "Ves cuántas. Nunca cuáles.",
+  "end": 24.09
+ },
+ {
+  "i": 6,
+  "start": 24.09,
+  "speechStart": 24.24,
+  "speechEnd": 28.58,
+  "text": "¿Y qué pasaría si vieras cuántas mentiras dice cada persona? A favor:",
+  "end": 28.81
+ },
+ {
+  "i": 7,
+  "start": 28.81,
+  "speechStart": 28.96,
+  "speechEnd": 34.08,
+  "text": "el vendedor dice precio especial. Sube un número. No compras. En contra:",
+  "end": 34.33
+ },
+ {
+  "i": 8,
+  "start": 34.33,
+  "speechStart": 34.48,
+  "speechEnd": 38.06,
+  "text": "tu amigo Sam dice me encanta tu regalo. Sube uno.",
+  "end": 37.91
+ },
+ {
+  "i": 9,
+  "start": 37.91,
+  "speechStart": 38.06,
+  "speechEnd": 40.0,
+  "text": "Auch. ¿Lo raro?",
+  "end": 40.23
+ },
+ {
+  "i": 10,
+  "start": 40.23,
+  "speechStart": 40.38,
+  "speechEnd": 42.18,
+  "text": "Casi nadie detecta mentiras.",
+  "end": 42.55
+ },
+ {
+  "i": 11,
+  "start": 42.55,
+  "speechStart": 42.7,
+  "speechEnd": 47.02,
+  "text": "Acertamos apenas un poco más que tirando una moneda. ¿Y el detector de mentiras?",
+  "end": 47.29
+ },
+ {
+  "i": 12,
+  "start": 47.29,
+  "speechStart": 47.44,
+  "speechEnd": 51.7,
+  "text": "Mide sudor y latidos... no mentiras. Pero hay un costo.",
+  "end": 51.85
+ },
+ {
+  "i": 13,
+  "start": 51.85,
+  "speechStart": 52.0,
+  "speechEnd": 55.24,
+  "text": "Ya no puedes creerle a nadie. Ni siquiera a ella.",
+  "end": 55.35
+ },
+ {
+  "i": 14,
+  "start": 55.35,
+  "speechStart": 55.5,
+  "speechEnd": 59.78,
+  "text": "Tu mamá siempre dice lo mismo. Ya comí. Y el número sube.",
+  "end": 60.09
+ },
+ {
+  "i": 15,
+  "start": 60.09,
+  "speechStart": 60.24,
+  "speechEnd": 61.96,
+  "text": "Una noche abres el refrigerador.",
+  "end": 62.17
+ },
+ {
+  "i": 16,
+  "start": 62.17,
+  "speechStart": 62.32,
+  "speechEnd": 65.52,
+  "text": "Solo hay comida para uno. Para ti. Su plato...",
+  "end": 65.37
+ },
+ {
+  "i": 17,
+  "start": 65.37,
+  "speechStart": 65.52,
+  "speechEnd": 68.66,
+  "text": "nunca se ensucia. Podrías enfrentarla.",
+  "end": 68.83
+ },
+ {
+  "i": 18,
+  "start": 68.83,
+  "speechStart": 68.98,
+  "speechEnd": 71.34,
+  "text": "Decirle mentirosa. La verdad...",
+  "end": 71.19
+ },
+ {
+  "i": 19,
+  "start": 71.19,
+  "speechStart": 71.34,
+  "speechEnd": 72.74,
+  "text": "o tu mamá.",
+  "end": 72.71
+ },
+ {
+  "i": 20,
+  "start": 72.71,
+  "speechStart": 72.86,
+  "speechEnd": 74.14,
+  "text": "Cierras el refrigerador.",
+  "end": 74.45
+ },
+ {
+  "i": 21,
+  "start": 74.45,
+  "speechStart": 74.6,
+  "speechEnd": 80.5,
+  "text": "Cocinas dos platos. Hoy comemos juntos. Ella abre la boca. Ya com...",
+  "end": 80.35
+ },
+ {
+  "i": 22,
+  "start": 80.35,
+  "speechStart": 80.5,
+  "speechEnd": 82.26,
+  "text": "Se detiene. El número...",
+  "end": 82.11
+ },
+ {
+  "i": 23,
+  "start": 82.11,
+  "speechStart": 82.26,
+  "speechEnd": 83.5,
+  "text": "no sube.",
+  "end": 83.35
+ },
+ {
+  "i": 24,
+  "start": 83.35,
+  "speechStart": 83.5,
+  "speechEnd": 85.06,
+  "text": "Por primera vez.",
+  "end": 85.33
+ },
+ {
+  "i": 25,
+  "start": 85.33,
+  "speechStart": 85.48,
+  "speechEnd": 90.46,
+  "text": "Al día siguiente ves a un hombre. Su número: cero. Y te está mirando.",
+  "end": 90.91
+ },
+ {
+  "i": 26,
+  "start": 90.91,
+  "speechStart": 91.06,
+  "speechEnd": 92.56,
+  "text": "¿Y tú qué harías con este poder?",
+  "end": 92.95
+ },
+ {
+  "i": 27,
+  "start": 92.95,
+  "speechStart": 93.1,
+  "speechEnd": 95.46,
+  "text": "Cuéntanos el número de tu mejor amigo en los comentarios.",
+  "end": 95.85
+ },
+ {
+  "i": 28,
+  "start": 95.85,
+  "speechStart": 96.0,
+  "speechEnd": 97.6,
+  "text": "Y si tu mamá te sacó una lágrima...",
+  "end": 97.83
+ },
+ {
+  "i": 29,
+  "start": 97.83,
+  "speechStart": 97.98,
+  "speechEnd": 100.22,
+  "text": "dale like y suscríbete para la Parte Dos.",
+  "end": 101.72
+ }
+]

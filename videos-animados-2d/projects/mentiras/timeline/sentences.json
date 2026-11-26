@@ -1,0 +1,344 @@
+[
+ {
+  "i": 0,
+  "start": 0.0,
+  "end": 2.78,
+  "text": "Sobre la cabeza de cada persona flota un número."
+ },
+ {
+  "i": 1,
+  "start": 3.36,
+  "end": 4.92,
+  "text": "Tu jefe: doce."
+ },
+ {
+  "i": 2,
+  "start": 4.92,
+  "end": 6.54,
+  "text": "Tu crush: cero."
+ },
+ {
+  "i": 3,
+  "start": 6.54,
+  "end": 7.0,
+  "text": "¿Tu mamá?"
+ },
+ {
+  "i": 4,
+  "start": 7.0,
+  "end": 9.2,
+  "text": "Trescientas cuarenta..."
+ },
+ {
+  "i": 5,
+  "start": 9.2,
+  "end": 10.38,
+  "text": "y todas por ti."
+ },
+ {
+  "i": 6,
+  "start": 10.88,
+  "end": 13.96,
+  "text": "La persona promedio dice una o dos mentiras al día."
+ },
+ {
+  "i": 7,
+  "start": 14.38,
+  "end": 16.38,
+  "text": "Lo midió un estudio en 1996."
+ },
+ {
+  "i": 8,
+  "start": 17.48,
+  "end": 17.62,
+  "text": "¿Tú?"
+ },
+ {
+  "i": 9,
+  "start": 18.1,
+  "end": 19.24,
+  "text": "Ahora las ves todas."
+ },
+ {
+  "i": 10,
+  "start": 19.82,
+  "end": 20.68,
+  "text": "Pero hay una regla."
+ },
+ {
+  "i": 11,
+  "start": 21.18,
+  "end": 22.18,
+  "text": "Ves cuántas."
+ },
+ {
+  "i": 12,
+  "start": 22.6,
+  "end": 23.6,
+  "text": "Nunca cuáles."
+ },
+ {
+  "i": 13,
+  "start": 24.24,
+  "end": 27.72,
+  "text": "¿Y qué pasaría si vieras cuántas mentiras dice cada persona?"
+ },
+ {
+  "i": 14,
+  "start": 27.72,
+  "end": 30.76,
+  "text": "A favor: el vendedor dice precio especial."
+ },
+ {
+  "i": 15,
+  "start": 31.36,
+  "end": 32.02,
+  "text": "Sube un número."
+ },
+ {
+  "i": 16,
+  "start": 32.54,
+  "end": 33.12,
+  "text": "No compras."
+ },
+ {
+  "i": 17,
+  "start": 33.64,
+  "end": 36.96,
+  "text": "En contra: tu amigo Sam dice me encanta tu regalo."
+ },
+ {
+  "i": 18,
+  "start": 37.58,
+  "end": 38.06,
+  "text": "Sube uno."
+ },
+ {
+  "i": 19,
+  "start": 38.06,
+  "end": 39.56,
+  "text": "Auch."
+ },
+ {
+  "i": 20,
+  "start": 39.56,
+  "end": 40.0,
+  "text": "¿Lo raro?"
+ },
+ {
+  "i": 21,
+  "start": 40.38,
+  "end": 42.18,
+  "text": "Casi nadie detecta mentiras."
+ },
+ {
+  "i": 22,
+  "start": 42.7,
+  "end": 45.44,
+  "text": "Acertamos apenas un poco más que tirando una moneda."
+ },
+ {
+  "i": 23,
+  "start": 45.86,
+  "end": 47.02,
+  "text": "¿Y el detector de mentiras?"
+ },
+ {
+  "i": 24,
+  "start": 47.44,
+  "end": 48.9,
+  "text": "Mide sudor y latidos..."
+ },
+ {
+  "i": 25,
+  "start": 49.52,
+  "end": 50.24,
+  "text": "no mentiras."
+ },
+ {
+  "i": 26,
+  "start": 50.76,
+  "end": 51.7,
+  "text": "Pero hay un costo."
+ },
+ {
+  "i": 27,
+  "start": 52.0,
+  "end": 53.74,
+  "text": "Ya no puedes creerle a nadie."
+ },
+ {
+  "i": 28,
+  "start": 54.26,
+  "end": 55.24,
+  "text": "Ni siquiera a ella."
+ },
+ {
+  "i": 29,
+  "start": 55.5,
+  "end": 57.28,
+  "text": "Tu mamá siempre dice lo mismo."
+ },
+ {
+  "i": 30,
+  "start": 57.66,
+  "end": 58.28,
+  "text": "Ya comí."
+ },
+ {
+  "i": 31,
+  "start": 58.6,
+  "end": 59.78,
+  "text": "Y el número sube."
+ },
+ {
+  "i": 32,
+  "start": 60.24,
+  "end": 61.96,
+  "text": "Una noche abres el refrigerador."
+ },
+ {
+  "i": 33,
+  "start": 62.32,
+  "end": 63.58,
+  "text": "Solo hay comida para uno."
+ },
+ {
+  "i": 34,
+  "start": 64.04,
+  "end": 64.48,
+  "text": "Para ti."
+ },
+ {
+  "i": 35,
+  "start": 64.96,
+  "end": 65.52,
+  "text": "Su plato..."
+ },
+ {
+  "i": 36,
+  "start": 65.52,
+  "end": 67.16,
+  "text": "nunca se ensucia."
+ },
+ {
+  "i": 37,
+  "start": 67.6,
+  "end": 68.66,
+  "text": "Podrías enfrentarla."
+ },
+ {
+  "i": 38,
+  "start": 68.98,
+  "end": 70.36,
+  "text": "Decirle mentirosa."
+ },
+ {
+  "i": 39,
+  "start": 70.8,
+  "end": 71.34,
+  "text": "La verdad..."
+ },
+ {
+  "i": 40,
+  "start": 71.34,
+  "end": 72.74,
+  "text": "o tu mamá."
+ },
+ {
+  "i": 41,
+  "start": 72.86,
+  "end": 74.14,
+  "text": "Cierras el refrigerador."
+ },
+ {
+  "i": 42,
+  "start": 74.6,
+  "end": 75.94,
+  "text": "Cocinas dos platos."
+ },
+ {
+  "i": 43,
+  "start": 76.34,
+  "end": 77.26,
+  "text": "Hoy comemos juntos."
+ },
+ {
+  "i": 44,
+  "start": 77.9,
+  "end": 79.02,
+  "text": "Ella abre la boca."
+ },
+ {
+  "i": 45,
+  "start": 79.46,
+  "end": 80.5,
+  "text": "Ya com..."
+ },
+ {
+  "i": 46,
+  "start": 80.5,
+  "end": 81.22,
+  "text": "Se detiene."
+ },
+ {
+  "i": 47,
+  "start": 81.74,
+  "end": 82.26,
+  "text": "El número..."
+ },
+ {
+  "i": 48,
+  "start": 82.26,
+  "end": 83.5,
+  "text": "no sube."
+ },
+ {
+  "i": 49,
+  "start": 83.5,
+  "end": 85.06,
+  "text": "Por primera vez."
+ },
+ {
+  "i": 50,
+  "start": 85.48,
+  "end": 87.08,
+  "text": "Al día siguiente ves a un hombre."
+ },
+ {
+  "i": 51,
+  "start": 87.6,
+  "end": 89.02,
+  "text": "Su número: cero."
+ },
+ {
+  "i": 52,
+  "start": 89.48,
+  "end": 90.46,
+  "text": "Y te está mirando."
+ },
+ {
+  "i": 53,
+  "start": 91.06,
+  "end": 92.56,
+  "text": "¿Y tú qué harías con este poder?"
+ },
+ {
+  "i": 54,
+  "start": 93.1,
+  "end": 95.46,
+  "text": "Cuéntanos el número de tu mejor amigo en los comentarios."
+ },
+ {
+  "i": 55,
+  "start": 96.0,
+  "end": 97.6,
+  "text": "Y si tu mamá te sacó una lágrima..."
+ },
+ {
+  "i": 56,
+  "start": 97.98,
+  "end": 100.22,
+  "text": "dale like y suscríbete para la Parte Dos."
+ }
+]
